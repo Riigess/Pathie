@@ -1,5 +1,5 @@
 # Pathie
-Pathie is a pathfinding cli application that utilizes a Heuristic A* algorithm.
+Pathie is a (very basic) pathfinding cli application that utilizes a Heuristic A* algorithm.
 
 ## Example output
-<img src="sampleOutput.png" />
+![sampleOutput.png](sampleOutput.png)
